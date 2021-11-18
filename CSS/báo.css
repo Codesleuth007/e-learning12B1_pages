@@ -91,9 +91,9 @@ a.tieude1,a.tieude2{
   font-family: 'Teko', sans-serif;
   position:absolute;
   margin-top:-31px;
-  left: 15px;
+  left: 25px;
   border-bottom: 1px solid #ff9d0a;
-  padding: 0em 1.3em 0.2em 60.8em;
+  padding: 0em 1.5em 0em 61em;
   
 }
 .Namenews a  {
@@ -307,16 +307,16 @@ a.tieude1,a.tieude2{
           th:first-child div {
             border: none;
           }
-h1{
+.textheader{
  font-size: 50px;
  font-family:  'Montagu Slab', serif;
  position: absolute;
  top:180px;
  left: 65px;
 }
-h2{
-  font-size: 20px;
-  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+.textback{
+  font-size: 25px;
+  font-family:'Times New Roman', Times, serif;
   position: relative;
   top:-140px;
  left: 160px;
