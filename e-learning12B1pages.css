@@ -335,7 +335,7 @@ margin-left: 120px;
 .footer1{
   font-size: 25px;
   border: 1px solid black;
-  padding: 100px 0px 50px 20px;
+  padding: 100px 0px 50px 0px;
   position: absolute;
   top: 2000px;
   background-color: #ffbe0b;
