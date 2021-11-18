@@ -58,7 +58,7 @@ a.tieude1,a.tieude2{
 }
 .tieude1{
   top: 0px;
-  left: 0px;
+  left: -20px;
 }
 .tieude2{
   top:30px;
@@ -335,7 +335,7 @@ margin-left: 120px;
 .footer1{
   font-size: 25px;
   border: 1px solid black;
-  padding: 100px 30px 50px 125px;
+  padding: 100px 0px 50px 20px;
   position: absolute;
   top: 2000px;
   background-color: #ffbe0b;
